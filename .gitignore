@@ -1,0 +1,4 @@
+web/cache/
+web/api/cache/
+web/api/authorize/cache/
+library/cache/
